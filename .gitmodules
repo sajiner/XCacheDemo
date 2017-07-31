@@ -1,0 +1,3 @@
+[submodule "GCDDemo"]
+	path = GCDDemo
+	url = https://github.com/sajiner/GCDDemo.git
